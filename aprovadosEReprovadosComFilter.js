@@ -6,5 +6,3 @@ const reprovados = alunos.filter((aluno, indice) =>{
     return medias[indice] < 6
 })
 console.log(reprovados)
-
-// https://www.youtube.com/watch?v=m88BRYeMBnw&ab_channel=MatheusCastiglioni
